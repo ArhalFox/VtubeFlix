@@ -1,5 +1,5 @@
 
-  **Olá, conhecam a comunidade VTUBER** "  
+  **Olá, conheçam a comunidade VTUBER** "  
  
 -  [VtubeFlix](https://arhalfox.github.io/VtubeFlix/) 
 
