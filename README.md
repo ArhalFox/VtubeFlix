@@ -1,7 +1,7 @@
 
   **Olá, conheçam a comunidade VTUBER** "  
  
--  [VtubeFlix](file:///C:/Users/DeboraPereiraCustodi/Downloads/foxflix-20240904T102932Z-001/foxflix/index.html) 
+-  [VtubeFlix](https://arhalfox.github.io/VtubeFlix-teste/) 
 
 - _Esperem que goste_
 
