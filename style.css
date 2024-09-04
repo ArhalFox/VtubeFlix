@@ -1,22 +1,24 @@
-body {color :white;
-    background: black;
+body {color :black, transparent 10%;
+    background: radial-gradient(#240000, #000000);;
     margin: 0px;
-    font-family: "New Amsterdam", sans-serif;
+    font-family: "DM Serif Text", system-ui;;
     margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2px rgb(170, 2, 2);
+    border-bottom: radial-gradient(#3f0202, #000000);;
     padding: 20px;
     font-size: 32px;
     color: rgb(255, 4, 4);
 }
 .chamada {
-    background: rgb(116, 0, 0);
+    background:radial-gradient(#240000, #000000);;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(1, 255, 230);
 }
 div {
     margin-right: 20px;
